@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70e0c6e-a99a-4cbe-b2b1-a33ddefa0da2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/audio_detection_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/audio_detection_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_audio/predict_batch_audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_audio/predict_batch_audio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_audio/predict_long_audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_audio/predict_long_audio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advanced_audio/predict_with_confidence.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_audio/predict_with_confidence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio_utils/audio_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/audio_utils/audio_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio_utils/audio_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/audio_utils/audio_preprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audio_utils/chunk_audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/audio_utils/chunk_audio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_all_to_wav.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_all_to_wav.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_wav.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_wav.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/tts_fake.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data/tts_fake.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/fake/tts1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/fake/tts1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extract_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_features.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/yamnet_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/yamnet_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict_tts.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_tts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict_tts_percent.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_tts_percent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict_with_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_with_upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realtime_audio/mic_continuous_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/realtime_audio/mic_continuous_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/realtime_audio/mic_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/realtime_audio/mic_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_tts_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_tts_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tts_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/tts_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tts_generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/tts_generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requrirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +162,7 @@
       <workItem from="1765553720770" duration="2019000" />
       <workItem from="1765603761086" duration="12914000" />
       <workItem from="1765643678744" duration="5466000" />
-      <workItem from="1765681416855" duration="14518000" />
+      <workItem from="1765681416855" duration="15366000" />
     </task>
     <servers />
   </component>
